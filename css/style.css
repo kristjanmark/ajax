@@ -1,14 +1,19 @@
 body {
     padding: 0;
     margin: 0;
+    font-family: 'Arial', sans-serif;
 }
 
 #box {
-    background: gray;
+    background: lightskyblue;
     text-align: center;
     padding: 10px;
     color: white;
     width: 500px;
     height: 200px;
     margin: 0 auto;
+}
+
+#result {
+    overflow: hidden;
 }
